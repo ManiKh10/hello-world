@@ -1,2 +1,2 @@
 # hello-world
-Mani's compsi work
+I go to highschool and somewhat like computer science
